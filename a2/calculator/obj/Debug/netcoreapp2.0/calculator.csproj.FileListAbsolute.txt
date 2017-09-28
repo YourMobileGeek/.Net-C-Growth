@@ -1,0 +1,10 @@
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/bin/Debug/netcoreapp2.0/calculator.deps.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/bin/Debug/netcoreapp2.0/calculator.runtimeconfig.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/bin/Debug/netcoreapp2.0/calculator.runtimeconfig.dev.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/bin/Debug/netcoreapp2.0/calculator.dll
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/bin/Debug/netcoreapp2.0/calculator.pdb
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/obj/Debug/netcoreapp2.0/calculator.csproj.CoreCompileInputs.cache
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/obj/Debug/netcoreapp2.0/calculator.AssemblyInfoInputs.cache
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/obj/Debug/netcoreapp2.0/calculator.AssemblyInfo.cs
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/obj/Debug/netcoreapp2.0/calculator.dll
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a2/calculator/obj/Debug/netcoreapp2.0/calculator.pdb

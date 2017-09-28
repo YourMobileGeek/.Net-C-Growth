@@ -1,0 +1,10 @@
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/bin/Debug/netcoreapp2.0/future.deps.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/bin/Debug/netcoreapp2.0/future.runtimeconfig.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/bin/Debug/netcoreapp2.0/future.runtimeconfig.dev.json
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/bin/Debug/netcoreapp2.0/future.dll
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/bin/Debug/netcoreapp2.0/future.pdb
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/obj/Debug/netcoreapp2.0/future.csproj.CoreCompileInputs.cache
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/obj/Debug/netcoreapp2.0/future.AssemblyInfoInputs.cache
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/obj/Debug/netcoreapp2.0/future.AssemblyInfo.cs
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/obj/Debug/netcoreapp2.0/future.dll
+/Users/ArianaD/Desktop/lis4369/bitbucketrepos/lis4369/a3/future/obj/Debug/netcoreapp2.0/future.pdb
